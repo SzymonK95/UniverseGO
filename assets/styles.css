@@ -42,6 +42,7 @@ nav{
 nav li{
     display: inline-block;
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 nav button{
@@ -63,6 +64,7 @@ nav button{
     border: 1px solid rgb(18, 40, 141);
     position: relative;
     padding-bottom: 40px;
+    min-width: 300px;
 }
 
 .article h2{
